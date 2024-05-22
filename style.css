@@ -1,3 +1,22 @@
-body {
 
+nav {
+    list-style-type: none;
+    posiiton: fixed;
+    background-color: pink; 
+    width: 100vw;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    font-size: 28px
+    
+   
+  }
+
+li{
+  display: inline;
+  padding: 8px; 
+} 
+a {
+  text-decoration: none;
+  color: ivory;
 }
